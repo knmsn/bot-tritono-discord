@@ -1,5 +1,3 @@
-# Tritono DJ
+# BOT - TritonoDJ
 
-Seja bem vindo ao meu repositório do TRITONO-DJ!
-Esse nada mais é que um bot de musica para o discord! :) 
-Espero que gostem.
+BOT de musica para o discord, com busca no youtube e integração com spotify.
